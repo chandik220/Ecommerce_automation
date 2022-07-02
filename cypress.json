@@ -1,0 +1,5 @@
+{
+  "testFiles": "**/*.feature",
+  "viewportWidth": 1366,
+  "viewportHeight": 800
+}
